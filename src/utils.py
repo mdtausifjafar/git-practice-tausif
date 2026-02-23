@@ -12,3 +12,11 @@ def subtract(a, b):
 # It returns the product of 'a' and 'b'
 def multiply(a, b):
     return a * b
+
+# Define a function 'divide' that takes two arguments, 'a' and 'b'
+# It returns the division of 'a' by 'b'
+# It also handles the case where 'b' is zero
+def divide(a, b):
+    if b == 0:
+        return "Error: Cannot divide by zero!"
+    return a / b
