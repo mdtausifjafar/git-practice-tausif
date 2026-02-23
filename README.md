@@ -1,7 +1,7 @@
 # Git Practice Project
 
-**Name:** Md. Tausif Jafar
-**GitHub Username:** mdtausifjafar
+**Name:** Md. Tausif Jafar  
+**GitHub Username:** mdtausifjafar  
 **GitHub Profile URL:** https://github.com/mdtausifjafar
 
 ## What This Project Does
